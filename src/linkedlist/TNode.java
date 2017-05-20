@@ -1,3 +1,5 @@
+package linkedlist;
+
 /**
  * Created by Ben on 5/11/2016.
  */
@@ -14,6 +16,6 @@ public class TNode {
 
     @Override
     public String toString() {
-        return "TNode{"+value+"}";
+        return "linkedlist.TNode{"+value+"}";
     }
 }
